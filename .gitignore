@@ -1,0 +1,16 @@
+# Ignore Visual Studio-related folders
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore build and deployment files
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+
+# Ignore any other specific files/folders you do not want to track
+ 
